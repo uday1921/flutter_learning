@@ -5,7 +5,7 @@ void main() {
     Center(
       child: Text(
         'Hello, world!',
-        textDirection: TextDirection.ltr,
+        textDirection: TextDirection.ltrs,
       ),
     ),
   );
